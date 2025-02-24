@@ -1,12 +1,13 @@
-import "./App.css";
-import { Leva } from 'leva'
 import { Logo } from '@pmndrs/branding'
-import Overlay from './Overlay'
 import { Canvas } from '@react-three/fiber'
 import { AccumulativeShadows, RandomizedLight, OrbitControls } from '@react-three/drei'
+import { Leva } from 'leva'
 
+import Overlay from './Overlay'
 import Sphere from "./Sphere";
 import Env from "./Env";
+
+import "./App.css";
 
 export default function App() {
   return (
