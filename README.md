@@ -1,6 +1,6 @@
-# Tauri + React + Typescript
+# Tauri + React + Typescript + Three.js
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+一个使用 Tarui + Three.js 的图形学示例
 
 ## Recommended IDE Setup
 
