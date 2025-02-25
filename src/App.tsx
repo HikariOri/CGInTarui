@@ -3,9 +3,9 @@ import { Canvas } from '@react-three/fiber'
 import { AccumulativeShadows, RandomizedLight, OrbitControls } from '@react-three/drei'
 import { Leva } from 'leva'
 
-import Overlay from './Overlay'
-import Sphere from "./Sphere";
-import Env from "./Env";
+import Overlay from './components/Overlay'
+import Sphere from "./components/Sphere";
+import Env from "./components/Env";
 
 import "./App.css";
 
